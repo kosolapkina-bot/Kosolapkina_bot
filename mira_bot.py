@@ -7,40 +7,40 @@ TOKEN = "8769022359:AAFQzUiJoUQzJXDmYk54P2eo4OGecvZxgpk"
 CHAT_ID = 311875077
 
 PLAN = [
-    ("03.05","Instagram","Svadba Stavropol","Reels 60s","Edem na svadbu. 1200 km. Dve dochki."),
-    ("03.05","Telegram","Svadba Stavropol","Post","Pochemu ne boyus 1200 km s detmi"),
-    ("05.05","Instagram","Ya ustala","Reels 7s","Vykhodnye ne spasut. Perestat zhdat."),
-    ("05.05","Telegram","Ya ustala","Post","Zhdala vykhodnykh. Nichego ne izmenilos."),
-    ("06.05","Instagram","Dochki","Clip","Sestra zamuzh. Starshaya podruzhka nevesty."),
-    ("06.05","Telegram","Dochki","Post","Starshaya na svadbe. Smotryu i dumayu."),
-    ("07.05","Instagram","Shpagat","Reels 75s","Sutulay sobaka. Probuyu shpagat v dekrete."),
-    ("07.05","Telegram","Shpagat","Karusel","Obyavlyayu proekt. Mne uzhe strashno."),
-    ("08.05","Instagram","Reshenie","Reels 60s","Umeyu sdavatsya. Imenno poetomu ne sdayus."),
-    ("08.05","Telegram","Reshenie","Karusel","Derzhit strakh togo kak legko sdatsya."),
-    ("09.05","Instagram","10 minut","Karusel","Ne znayu kak otdykhat bez sna."),
-    ("09.05","Telegram","Telo Delo Dusha","Itog","Nedelya 1. Stavropol shpagat strakh."),
-    ("12.05","Instagram","Otdykh","Reels 75s","Mozg ne umeet otdykhat. Nado uchit."),
-    ("12.05","Telegram","Otdykh","Anons","Ne umeyu otdykhat. Obyavlyayu."),
-    ("13.05","Instagram","Shpagat","Clip","Den 1 posle vozvrashcheniya. Telo net."),
-    ("13.05","Telegram","Ya ustala","Post","Doekhal. Molchu. Khorosheye molchaniye."),
-    ("14.05","Instagram","Dochki","Reels 90s","Ne znayu kak nazvat. No rabotayet."),
-    ("14.05","Telegram","Dochki","Post","Ne zapomit slova. Zapomit razzhala li ruki."),
-    ("19.05","Instagram","Otdykh 2","Reels","Sprosila otvetili. Tri varianta."),
-    ("19.05","Telegram","Otdykh 3","Eksperiment","Tikhiy chas bez telefona. Otchet."),
-    ("21.05","Instagram","Dekret","Reels 75s","Vozvrashchayus na rabotu. Strashno."),
-    ("21.05","Telegram","Dekret","Longrid","Vykhod iz dekreta etapy plan"),
-    ("27.05","Instagram","Shpagat","Clip","Mesyats shpagata. Chestnyy itog."),
-    ("27.05","Telegram","Shpagat","Post","Chto izmenilos chto net chto ponyala"),
-    ("30.05","Instagram","Telo Delo Dusha","Karusel","MAY. Itog mesyatsa."),
-    ("30.05","Telegram","Telo Delo Dusha","Itog","MAY chestnyy itog."),
+    ("03.05","Instagram","Свадьба Ставрополь","Reels 60s","Едем на свадьбу. 1200 км. Две дочки."),
+    ("03.05","Telegram","Свадьба Ставрополь","Пост","Почему не боюсь 1200 км с детьми"),
+    ("05.05","Instagram","Я устала","Reels 7s","Выходные не спасут. Перестать ждать."),
+    ("05.05","Telegram","Я устала","Пост","Ждала выходных. Ничего не изменилось."),
+    ("06.05","Instagram","Дочки","Clip","Сестра замуж. Старшая подружка невесты."),
+    ("06.05","Telegram","Дочки","Пост","Старшая на свадьбе. Смотрю и думаю."),
+    ("07.05","Instagram","Шпагат","Reels 75s","Сутулая собака. Пробую шпагат в декрете."),
+    ("07.05","Telegram","Шпагат","Карусель","Объявляю проект. Мне уже страшно."),
+    ("08.05","Instagram","Решение","Reels 60s","Умею сдаваться. Именно поэтому не сдаюсь."),
+    ("08.05","Telegram","Решение","Карусель","Держит страх того как легко сдаться."),
+    ("09.05","Instagram","10 минут","Карусель","Не знаю как отдыхать без сна."),
+    ("09.05","Telegram","Тело Дело Душа","Итог","Неделя 1. Ставрополь шпагат страх."),
+    ("12.05","Instagram","Отдых","Reels 75s","Мозг не умеет отдыхать. Надо учить."),
+    ("12.05","Telegram","Отдых","Анонс","Не умею отдыхать. Объявляю."),
+    ("13.05","Instagram","Шпагат","Clip","День 1 после возвращения. Тело говорит нет."),
+    ("13.05","Telegram","Я устала","Пост","Доехали. Молчу. Хорошее молчание."),
+    ("14.05","Instagram","Дочки","Reels 90s","Не знаю как назвать. Но работает."),
+    ("14.05","Telegram","Дочки","Пост","Не запомнит слова. Запомнит разжала ли руки."),
+    ("19.05","Instagram","Отдых 2","Reels","Спросила вы ответили. Три варианта."),
+    ("19.05","Telegram","Отдых 3","Эксперимент","Тихий час без телефона. Отчёт."),
+    ("21.05","Instagram","Декрет","Reels 75s","Возвращаюсь на работу. Страшно."),
+    ("21.05","Telegram","Декрет","Лонгрид","Выход из декрета этапы план"),
+    ("27.05","Instagram","Шпагат","Clip","Месяц шпагата. Честный итог."),
+    ("27.05","Telegram","Шпагат","Пост","Что изменилось что нет что поняла"),
+    ("30.05","Instagram","Тело Дело Душа","Карусель","МАЙ. Итог месяца по триаде."),
+    ("30.05","Telegram","Тело Дело Душа","Итог","МАЙ честный итог."),
 ]
 
 IDEAS = [
-    "Morning before and after coffee - no words",
-    "Honest fail this week - what it gave",
-    "5 min on camera with daughter no script",
-    "What you stopped doing in maternity leave",
-    "One tool you cannot live without",
+    "Утро до и после кофе без слов только кадры",
+    "Честный провал этой недели и что он дал",
+    "5 минут в кадре с дочкой без сценария",
+    "Что перестала делать в декрете и не жалеешь",
+    "Один инструмент без которого не обходится день",
 ]
 
 def today_posts():
@@ -49,15 +49,15 @@ def today_posts():
 
 def fmt(p):
     e = "Instagram" if p[1] == "Instagram" else "Telegram"
-    return "[" + e + "] " + p[2] + "\nFormat: " + p[3] + "\nHook: " + p[4]
+    return "[" + e + "] " + p[2] + "\nФормат: " + p[3] + "\nХук: " + p[4]
 
 async def start(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     kb = [
-        [InlineKeyboardButton("Today", callback_data="today")],
-        [InlineKeyboardButton("Next 3 days", callback_data="soon")],
-        [InlineKeyboardButton("Idea", callback_data="idea")],
+        [InlineKeyboardButton("Сегодня", callback_data="today")],
+        [InlineKeyboardButton("Ближайшие 3 дня", callback_data="soon")],
+        [InlineKeyboardButton("Идея для поста", callback_data="idea")],
     ]
-    await update.message.reply_text("Hello. I know your content plan for May.", reply_markup=InlineKeyboardMarkup(kb))
+    await update.message.reply_text("Привет. Знаю твой контент-план на май. Напомню что публиковать.", reply_markup=InlineKeyboardMarkup(kb))
 
 async def btn(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     q = update.callback_query
@@ -65,9 +65,9 @@ async def btn(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     if q.data == "today":
         posts = today_posts()
         if not posts:
-            await q.message.reply_text("Nothing planned for today.")
+            await q.message.reply_text("На сегодня в плане ничего нет.")
             return
-        text = "Today " + datetime.now().strftime("%d.%m") + ":\n\n" + "\n\n".join(fmt(p) for p in posts)
+        text = "Сегодня " + datetime.now().strftime("%d.%m") + ":\n\n" + "\n\n".join(fmt(p) for p in posts)
         await q.message.reply_text(text)
     elif q.data == "soon":
         now = datetime.now()
@@ -77,43 +77,43 @@ async def btn(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
                 d, m = p[0].split(".")
                 diff = (datetime(now.year, int(m), int(d)) - now).days
                 if 0 <= diff <= 3:
-                    label = "Today" if diff == 0 else ("Tomorrow" if diff == 1 else "In " + str(diff) + " days")
+                    label = "Сегодня" if diff == 0 else ("Завтра" if diff == 1 else "Через " + str(diff) + " дня")
                     lines.append(label + "\n" + fmt(p))
             except:
                 pass
-        await q.message.reply_text("\n\n".join(lines) if lines else "Nothing upcoming.")
+        await q.message.reply_text("\n\n".join(lines) if lines else "Ближайших постов нет.")
     elif q.data == "idea":
         await q.message.reply_text(random.choice(IDEAS))
 
 async def msg(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     t = update.message.text.lower()
-    if "today" in t or "plan" in t:
+    if any(w in t for w in ["сегодня", "план", "что постить"]):
         posts = today_posts()
-        text = "Today:\n\n" + "\n\n".join(fmt(p) for p in posts) if posts else "Nothing today."
+        text = "Сегодня:\n\n" + "\n\n".join(fmt(p) for p in posts) if posts else "На сегодня ничего нет."
         await update.message.reply_text(text)
-    elif "tomorrow" in t:
+    elif "завтра" in t:
         now = datetime.now()
         try:
             tm = now.replace(day=now.day + 1).strftime("%d.%m")
         except:
             tm = ""
         posts = [p for p in PLAN if p[0] == tm]
-        text = "Tomorrow:\n\n" + "\n\n".join(fmt(p) for p in posts) if posts else "Nothing tomorrow."
+        text = "Завтра:\n\n" + "\n\n".join(fmt(p) for p in posts) if posts else "Завтра ничего нет."
         await update.message.reply_text(text)
     else:
-        await update.message.reply_text("Write today, tomorrow, or /start")
+        await update.message.reply_text("Напиши сегодня, завтра или нажми /start")
 
 async def morning(ctx: ContextTypes.DEFAULT_TYPE):
     posts = today_posts()
     if posts:
-        text = "Good morning. Today:\n\n" + "\n\n".join(fmt(p) for p in posts)
+        text = "Доброе утро. Контент на сегодня:\n\n" + "\n\n".join(fmt(p) for p in posts)
         await ctx.bot.send_message(CHAT_ID, text)
 
 async def evening(ctx: ContextTypes.DEFAULT_TYPE):
     posts = today_posts()
     if posts:
-        kb = [[InlineKeyboardButton("Yes", callback_data="done"), InlineKeyboardButton("No", callback_data="no")]]
-        await ctx.bot.send_message(CHAT_ID, "Evening. " + str(len(posts)) + " posts. All published?", reply_markup=InlineKeyboardMarkup(kb))
+        kb = [[InlineKeyboardButton("Да всё", callback_data="done"), InlineKeyboardButton("Не всё", callback_data="no")]]
+        await ctx.bot.send_message(CHAT_ID, "Вечерняя проверка. " + str(len(posts)) + " поста. Всё опубликовано?", reply_markup=InlineKeyboardMarkup(kb))
 
 app = ApplicationBuilder().token(TOKEN).build()
 app.add_handler(CommandHandler("start", start))
