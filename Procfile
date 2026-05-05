@@ -1,2 +1,2 @@
-worker: python /app/kosolapkina_bot.py
+worker: python -u kosolapkina_bot.py
 
