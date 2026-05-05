@@ -1,2 +1,1 @@
-worker: python -u kosolapkina_bot.py
-
+worker: python mira_bot.py
